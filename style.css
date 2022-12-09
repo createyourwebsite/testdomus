@@ -94,7 +94,8 @@ nav p{
 }
 
 ul{
-    list-style-type: none;
+    
+    list-style-position: inside;
 }
 
 /*page 3*/
